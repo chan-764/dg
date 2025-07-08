@@ -1,0 +1,14 @@
+[2025-07-08 04:46:05] ✅ Repository already cloned.
+[2025-07-08 04:46:05] ✅ Found Dockerfile: ./cloned_repo/api/Dockerfile
+[2025-07-08 04:46:05] ✅ Found Dockerfile: ./cloned_repo/db/Dockerfile
+[2025-07-08 04:46:05] ✅ Found Dockerfile: ./cloned_repo/app/Dockerfile
+[2025-07-08 04:46:08] 🔐 Logging into DockerHub...
+[2025-07-08 04:46:08] 🔧 Building Docker image for api
+[2025-07-08 04:46:37] 🔧 Building Docker image for db
+[2025-07-08 04:46:54] 🔧 Building Docker image for app
+[2025-07-08 04:47:05] 📤 Pushing image chandanuikey97/k8s-api to DockerHub
+[2025-07-08 04:47:23] 📤 Pushing image chandanuikey97/k8s-db to DockerHub
+[2025-07-08 04:47:28] 📤 Pushing image chandanuikey97/k8s-app to DockerHub
+[2025-07-08 04:47:39] 📝 docker-compose.yml created at ./cloned_repo/docker-compose.yml
+[2025-07-08 04:47:39] 🚀 Launching services with docker-compose...
+[2025-07-08 04:47:40] ✅ docker-compose services launched
